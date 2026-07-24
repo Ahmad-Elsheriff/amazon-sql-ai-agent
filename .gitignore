@@ -1,0 +1,15 @@
+# Virtual Environment (اسم مجلد البيئة عندك)
+sql_agent_env/
+
+# Python Cache & Database files
+__pycache__/
+*.py[cod]
+store.db
+
+# Environment variables & keys (لو عملت ملف .env مستقبلاً)
+.env
+.env.*
+
+# IDE / Editor settings
+.vscode/
+.idea/
